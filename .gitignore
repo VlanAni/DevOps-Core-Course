@@ -1,5 +1,4 @@
 # Student-produced artifacts — live in fork, not upstream
-app_python/
 app_go/
 k8s/
 ansible/
